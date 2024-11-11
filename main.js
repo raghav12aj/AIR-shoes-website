@@ -179,8 +179,8 @@ const fifthWrapperState=[
         h3:"MARCO - PLEATED TROUSERS"
     },
     {
-        srcNoHover:"https://www.riccardoricci.co/cdn/shop/files/Sam_jackets_jacketsformen_ribbedjacket_courdaroyjacket_coatformen_7.png?v=1726658030&width=1800",
-        srcHover:"https://www.riccardoricci.co/cdn/shop/files/MilanoComfortJacket_jackets_jacketsformen_ribbedjacket_courdaroyjacket_coatformen_12.png?v=1726657995&width=1800",
+        srcNoHover:"https://www.riccardoricci.co/cdn/shop/files/Screenshot2024-06-02at4.46.42PM.png?v=1725251523&width=1800",
+        srcHover:"https://www.riccardoricci.co/cdn/shop/files/Screenshot2024-06-02at4.46.52PM.png?v=1725251523&width=1800",
         h3:"SAM - COMFORT JACKET"
     },
     {

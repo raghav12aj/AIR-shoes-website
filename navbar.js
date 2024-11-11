@@ -51,3 +51,8 @@ gsap.from(".navbar-items",{
     stagger:0.1,
     delay:1
 })
+
+document.querySelector('#search-icon i').addEventListener('click', () => {
+    document.querySelector('#search-icon').classList.toggle('active');
+  });
+  

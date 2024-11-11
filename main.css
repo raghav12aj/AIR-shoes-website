@@ -644,9 +644,7 @@ body {
     gap: 0.7vw;
 }
 
-.feedback-rating-stars{
-    /* border: 2px solid red; */
-}
+
 .feedback-rating-title{
     font-size: 1.3vw;
 }
